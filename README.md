@@ -16,9 +16,11 @@ dcos config prepend package.sources https://github.com/mesosphere/universe/archi
 
 ## Branches
 
-The default branch for this repository is `version-1.x`, which reflects the current schema for the Universe. In the future, if the format changes significantly, there will be additional branches.
+The default branch for this repository is `version-2.x`, which reflects the current schema for the Universe. In the future, if the format changes significantly, there will be additional branches.
 
-The `cli-tests` branch is used for integration testing by the [DCOS CLI](https://github.com/mesosphere/dcos-cli) and provides a fixed and well known set of packages to write tests against.
+This branch (version-1.x) has been deprecated, please use branch version-2.x instead.
+
+To use this branch, you have to use a legacy version of the DCOS CLI (version < 0.4.0)
 
 ## Contributing a Package
 
