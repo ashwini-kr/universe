@@ -46,6 +46,10 @@
             "description": "A space-separated list of hosts used to populate the SSH known hosts file on the Jenkins master.",
             "type": "string",
             "default": "github.com"
+        },
+        "hostname": {
+            "description": "A hostname to run this Jenkins instance on.",
+            "type" : "string"
         }
       },
       "required": [
