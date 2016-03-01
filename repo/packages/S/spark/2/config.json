@@ -60,7 +60,7 @@
                 "uri": {
                     "type": "string",
                     "description": "Spark distribution URI",
-                    "default": "http://com.autodesk.edl.dev.s3.amazonaws.com/test/spark-2.0.0-SNAPSHOT-bin-autodesk-spark.tgz"
+                    "default": "http://com.autodesk.edl.dev.s3.amazonaws.com/test/spark-1.6.0-bin-autodesk-spark.tgz"
                 }
             },
             "required": [
