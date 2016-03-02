@@ -2,7 +2,7 @@
   "assets": {
     "container": {
       "docker": {
-        "51cd5bc16406": "autodeskcloud/adp-spark:2.6.4"
+        "51cd5bc16406": "autodeskcloud/adp-spark:2.6.0"
       }
     }
   },
