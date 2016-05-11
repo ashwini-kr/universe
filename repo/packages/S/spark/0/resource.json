@@ -1,11 +1,8 @@
 {
   "assets": {
-    "uris": {
-      "log4j-properties": "http://downloads.mesosphere.com.s3.amazonaws.com/assets/spark/log4j.properties"
-    },
     "container": {
       "docker": {
-        "23b1cfe8e04a": "docker.io/autodeskcloud/adp-spark:2.6.0"
+        "23b1cfe8e04a": "docker.io/autodeskcloud/adp-spark:latest"
       }
     }
   },
